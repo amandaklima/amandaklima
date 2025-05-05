@@ -1,9 +1,5 @@
 <h1 align="center">👋 Olá, eu sou a Amanda!</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=440&lines=Estudante+de+ADS+e+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Apaixonado+por+UX%2FUI+e+Desenvolvimento+Web" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🧠 Sobre Mim
@@ -37,18 +33,6 @@ Participei da realização de prjetos atuando tanto com **frontend** quanto **ba
 - Machine Learanig   
 - Ciência de dados 
 - Habilidades de Marketing digital 
-
-
-
-## 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
