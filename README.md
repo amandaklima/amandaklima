@@ -5,15 +5,7 @@
 ## 🧠 Sobre Mim
 
 Fui aluna do Embarque Digital, cursei **Análise e Desenvolvimento de Sistemas**,  **participei da residencia tecnologica do Porto Digital** e atualmente estou cursando **Ciência da Computação** na Universidade Cátolica de Pernambuco.  
-Estou sempre buscando expandir meus conhecimentos e já participei de diversos projetos atuando tanto com **frontend** quanto **backend**, mas minha maior paixão é criar interfaces que ofereçam experiências agradáveis, intuitivas e acessíveis aos usuários.
-
----
-
-## 💻 Linguagens e Tecnologias que trabalho:
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+Estou sempre buscando expandir meus conhecimentos e já participei de diversos projetos, e minha maior paixão é criar interfaces que ofereçam experiências agradáveis, intuitivas e acessíveis aos usuários.
 
 ---
 
@@ -28,7 +20,7 @@ Estou sempre buscando expandir meus conhecimentos e já participei de diversos p
 - UX Data Driven
 - Machine Learanig   
 - Ciência de dados 
----
+--- Power Bi
 
 ## 📫 Infromações de contato:
 
