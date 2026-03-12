@@ -20,7 +20,7 @@ Estou sempre buscando expandir meus conhecimentos e já participei de diversos p
 - UX Data Driven
 - Machine Learanig   
 - Ciência de dados 
---- Power Bi
+- Power Bi
 
 ## 📫 Infromações de contato:
 
